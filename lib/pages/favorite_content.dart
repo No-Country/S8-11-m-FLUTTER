@@ -5,7 +5,7 @@ class FavoriteContent extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: const Color.fromARGB(255, 104, 8, 8),
+      color: const Color.fromARGB(255, 8, 104, 26),
       // ignore: prefer_const_constructors
       child: Center(
         // ignore: prefer_const_constructors
